@@ -1,0 +1,7 @@
+{
+  "entry": ["src/index.ts"],
+  "outDir": "bin",
+  "splitting": false,
+  "sourcemap": true,
+  "clean": true
+}
