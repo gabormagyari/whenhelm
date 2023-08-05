@@ -1,0 +1,6 @@
+{
+  "name": "whenhelm",
+  "version": "1.0.0",
+  "description": "A tool that helps you track your queue position for Helm Watches.",
+  "workspaces": ["apps/**", "libs/**"]
+}
